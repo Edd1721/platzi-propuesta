@@ -13,6 +13,8 @@ Las mejoras estan enfocadas en dos puntos:
 4.	De la mano del punto 3, esta la posibilidad de *ocultar* las carreras que no me interesan. y así solo dejar las carreras que quiero. Las carreras ocultdas van al fondo de la página.
 5.	Cambio en el botón/sección de 'Tomar Examen' de cada carrera.
 
+Aqui el sitio web [Demo](https://platzi-propuesta.firebaseapp.com/)
+
 ## License
 
 MIT © Edward S. Ramos

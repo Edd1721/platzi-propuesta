@@ -1,0 +1,33 @@
+@import "_variables.scss";
+
+.is-size-6-5 {
+  font-size: 0.9rem;
+}
+
+.btn {
+  background: lightgray;
+  border: none;
+  border-radius: 7px;
+  box-shadow: inset 0 -.2em rgba(0,0,0, .2);
+  color: white;
+  cursor: pointer;
+  font-size: 1.1rem;
+  margin: 5px;
+  outline: 0;
+  padding: .6em .8em .8em;
+  text-align: center;
+  transition: .2s;
+  will-change: transform;
+
+  &:active {
+    transform: scale(.9);
+  }
+
+  &.primary {
+    background: #7dc800;
+  }
+
+  &.full-width {
+    width: 98%;
+  }
+}

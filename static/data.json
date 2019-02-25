@@ -1,0 +1,304 @@
+{
+  "careers": [
+    {
+      "id": "1",
+      "name": "apple fullstack developer",
+      "description": "Desarrolla apps para iPhone o iPad. Programa en Objective-C y Swift. Publica tus apps en la App Store y gana dinero con ellas.",
+      "completed": false,
+      "color": "#07321c",
+      "img": "https://static.platzi.com/media/career-banner/3f.png",
+      "courses": [
+        {
+          "name": "Curso profesional de git y gitHub",
+          "badgeSrc": "https://static.platzi.com/media/achievements/badge-github-c53a39e6-772b-4e41-b3c4-223bb252fbd6.png",
+          "badgeAlt": "Curso profesional de Git y GitHub",
+          "completed": true,
+          "score": "9.6",
+          "favorite": true,
+          "progress": 100
+        },
+        {
+          "name": "Curso de Swift",
+          "badgeSrc": "https://static.platzi.com/media/achievements/badges-swift-966a0068-ea13-4efe-98ab-83974b5dafa7.png",
+          "badgeAlt": "Curso de Swift",
+          "completed": false,
+          "favorite": true,
+          "progress": 80
+        },
+        {
+          "name": "Curso de Desarrollo de Interfaces con iOS",
+          "badgeSrc": "https://static.platzi.com/media/achievements/badge-interfaces-ios-1c1aa956-dea6-4d7c-84b1-ec4c0edfbd0d.png",
+          "badgeAlt": "Curso de Desarrollo de Interfaces con iOS",
+          "completed": false,
+          "favorite": true,
+          "progress": 35
+        },
+        {
+          "name": "Curso de Desarrollo de Aplicaciones con iOS",
+          "badgeSrc": "https://static.platzi.com/media/achievements/badges-aplicaciones-ios-cf5b4f00-ef45-4c92-9e99-e03bd1dc409d.png",
+          "badgeAlt": "Curso de Desarrollo de Aplicaciones con iOS",
+          "completed": false,
+          "favorite": false,
+          "progress": 1
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "negocios online",
+      "description": "Convierte tu idea en un modelo de negocio online. Administra finanzas, estrategias de mercado y monetización. Consigue tus primeros clientes y vende en Internet.",
+      "completed": false,
+      "color": "#472c09",
+      "img": "https://static.platzi.com/media/career-banner/6f.png",
+      "courses": [
+        {
+          "name": "Curso de Finanzas Personales",
+          "badgeSrc": "https://static.platzi.com/media/achievements/badge-finanzas-personales-af9971ca-d6ce-403c-a940-8ecfd0de71f3.png",
+          "badgeAlt": "Curso de Finanzas Personales",
+          "completed": false,
+          "favorite": true,
+          "progress": 10
+        },
+        {
+          "name": "Curso de Introducción a los Negocios Online",
+          "badgeSrc": "https://static.platzi.com/media/achievements/badge-intro-negocios-online-dfc9bad9-43be-40b3-a418-6ab05214837c.png",
+          "badgeAlt": "Curso de Introducción a los Negocios Online",
+          "completed": false,
+          "favorite": false,
+          "progress": 20
+        },
+        {
+          "name": "Curso de Transformación Digital para Empresas",
+          "badgeSrc": "https://static.platzi.com/media/achievements/1321-67f2b04c-1735-4813-8d39-4c943932b7de.png",
+          "badgeAlt": "Curso de Transformación Digital para Empresas",
+          "completed": false,
+          "favorite": false,
+          "progress": 30
+        },
+        {
+          "name": "Curso de Business Model Canvas",
+          "badgeSrc": "https://static.platzi.com/media/achievements/1309-25772f56-4753-489d-a3b5-8a432e9d4c1d.png",
+          "badgeAlt": "Curso de Business Model Canvas",
+          "completed": false,
+          "favorite": false,
+          "progress": 40
+        },
+        {
+          "name": "Curso de Atención al Cliente y Soporte a Usuarios",
+          "badgeSrc": "https://static.platzi.com/media/achievements/1282-0e968fd9-e8d4-406c-999b-940608e2b01a.png",
+          "badgeAlt": "Curso de Atención al Cliente y Soporte a Usuarios",
+          "completed": false,
+          "favorite": false,
+          "progress": 50
+        },
+        {
+          "name": "Curso de Ventas y Fidelización de Clientes",
+          "badgeSrc": "https://static.platzi.com/media/achievements/1175-8c292ede-4811-4a60-80a2-f88066d03ba9.png",
+          "badgeAlt": "Curso de Ventas y Fidelización de Clientes",
+          "completed": false,
+          "favorite": false,
+          "progress": 0
+        },
+        {
+          "name": "Curso de Seguridad Informática para Empresas",
+          "badgeSrc": "https://static.platzi.com/media/achievements/1213-62a1def8-aa3f-44df-a1da-4c7d0d0c93a7.png",
+          "badgeAlt": "Curso de Seguridad Informática para Empresas",
+          "completed": false,
+          "favorite": false,
+          "progress": 0
+        },
+        {
+          "name": "Curso de Finanzas para Startups",
+          "badgeSrc": "https://static.platzi.com/media/achievements/1325-90c82d2a-8c09-4bf2-8664-a8db25bfd6a0.png",
+          "badgeAlt": "Curso de Finanzas para Startups",
+          "completed": false,
+          "favorite": false,
+          "progress": 0
+        },
+        {
+          "name": "Curso de Escritura Online",
+          "badgeSrc": "https://static.platzi.com/media/achievements/1259-db981196-5441-4b09-a0c8-0fa6314956eb.png",
+          "badgeAlt": "Curso de Escritura Online",
+          "completed": true,
+          "score": "10",
+          "favorite": true,
+          "progress": 100
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "OUTBOUND MARKETING",
+      "description": "Logra ventas con ayuda de campañas simples y de estrategias directas enfocadas en mostrar tu producto o servicio. Atrae a tu público objetivo a través de métodos unidireccionales. Maneja y optimiza presupuestos en AdWords, FB Ads y Twitter.",
+      "completed": false,
+      "color": "#0077ff",
+      "img": "https://static.platzi.com/media/career-banner/4.png",
+      "courses": [
+        {
+          "name": "Curso de Introducción al Marketing Digital",
+          "badgeSrc": "https://static.platzi.com/media/achievements/1328-bdfaf9ae-05e1-44c3-9c14-fccbb491a7d3.png",
+          "badgeAlt": "Curso de Introducción al Marketing Digital",
+          "completed": false,
+          "favorite": true,
+          "progress": 0
+        },
+        {
+          "name": "Curso de Instagram Ads y Optimización de Campañas",
+          "badgeSrc": "https://static.platzi.com/media/achievements/1291-cd4c7e20-dd64-4e88-a922-8a20e77f224b.png",
+          "badgeAlt": "Curso de Instagram Ads y Optimización de Campañas",
+          "completed": false,
+          "favorite": false,
+          "progress": 0
+        },
+        {
+          "name": "Curso de Facebook Ads",
+          "badgeSrc": "https://static.platzi.com/media/achievements/1290-4615fc49-f87d-4483-8db8-7d9f490b8c53.png",
+          "badgeAlt": "Curso de Facebook Ads",
+          "completed": false,
+          "favorite": false,
+          "progress": 0
+        },
+        {
+          "name": "Fundamentos de Outbound Marketing y SEM",
+          "badgeSrc": "https://static.platzi.com/media/achievements/1121-554cea60-f69c-498e-8e67-17a8c9013b0a.png",
+          "badgeAlt": "Fundamentos de Outbound Marketing y SEM",
+          "completed": false,
+          "favorite": false,
+          "progress": 0
+        },
+        {
+          "name": "Introducción al Marketing con Influencers",
+          "badgeSrc": "https://static.platzi.com/media/achievements/1097-a149d759-5b83-49dc-86cc-1d685819e5a4.png",
+          "badgeAlt": "Introducción al Marketing con Influencers",
+          "completed": false,
+          "favorite": false,
+          "progress": 0
+        },
+        {
+          "name": "Curso de Relaciones Públicas y Prensa",
+          "badgeSrc": "https://static.platzi.com/media/achievements/1051-d3402b00-785c-4c93-abbb-c55330264d66.png",
+          "badgeAlt": "Curso de Relaciones Públicas y Prensa",
+          "completed": false,
+          "favorite": false,
+          "progress": 0
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "ADMINISTRACIÓN DE SERVIDORES Y DEVOPS",
+      "description": "Administra servidores Linux, AWS, Digital Ocean y Azure. Despliega web apps en Apache, Nginx, MySQL, Mongo, Postgres, PHP, Python, RoR, JS y otras tecnologías. Sé un DevOps Profesional.",
+      "completed": false,
+      "color": "#133225",
+      "img": "https://static.platzi.com/media/career-banner/9f.png",
+      "courses": [
+        {
+          "name": "Introducción a Terminal y Linea de Comandos",
+          "badgeSrc": "https://static.platzi.com/media/achievements/1276-62e97e39-63d1-4139-b299-fc5eb65a9905.png",
+          "badgeAlt": "Introducción a Terminal y Linea de Comandos",
+          "completed": true,
+          "score": "9.6",
+          "favorite": true,
+          "progress": 100
+        },
+        {
+          "name": "Curso de GitLab",
+          "badgeSrc": "https://static.platzi.com/media/achievements/badges-gitlab-81a80b64-5304-4276-8f94-19a8a1e8912d.png",
+          "badgeAlt": "Curso de GitLab",
+          "completed": true,
+          "score": "9.3",
+          "favorite": true,
+          "progress": 100
+        },
+        {
+          "name": "Curso de Administración de Servidores Linux",
+          "badgeSrc": "https://static.platzi.com/media/achievements/1123-840ea3c7-e9a3-483a-9b9d-5d83df510a7f.png",
+          "badgeAlt": "Curso de Administración de Servidores Linux",
+          "completed": false,
+          "favorite": false,
+          "progress": 0
+        },
+        {
+          "name": "Curso de Azure IaaS",
+          "badgeSrc": "https://static.platzi.com/media/achievements/1156-b82daf61-b72e-40ee-bef0-b35ffff09897.png",
+          "badgeAlt": "Curso de Azure IaaS",
+          "completed": false,
+          "favorite": false,
+          "progress": 0
+        },
+        {
+          "name": "Curso de Azure PaaS",
+          "badgeSrc": "https://static.platzi.com/media/achievements/1206-253d031d-f0b4-4fad-9cda-74382dd1c728.png",
+          "badgeAlt": "Curso de Azure PaaS",
+          "completed": false,
+          "favorite": false,
+          "progress": 0
+        },
+        {
+          "name": "Curso de DigitalOcean",
+          "badgeSrc": "https://static.platzi.com/media/achievements/1208-78fddad4-9c6d-4e20-a759-72558ac54458.png",
+          "badgeAlt": "Curso de DigitalOcean",
+          "completed": false,
+          "favorite": false,
+          "progress": 0
+        },
+        {
+          "name": "Curso de Deploy con Now.sh",
+          "badgeSrc": "https://static.platzi.com/media/achievements/1139-2394fba7-2a9e-43f4-a140-1b8e35764d8a.png",
+          "badgeAlt": "Curso de Deploy con Now.sh",
+          "completed": false,
+          "favorite": false,
+          "progress": 0
+        },
+        {
+          "name": "Curso de Fundamentos de AWS Cloud",
+          "badgeSrc": "https://static.platzi.com/media/achievements/1323-b1cdbbea-6d17-4d0d-a3d1-ec8b5700dae6.png",
+          "badgeAlt": "Curso de Fundamentos de AWS Cloud",
+          "completed": false,
+          "favorite": true,
+          "progress": 0
+        },
+        {
+          "name": "Curso Profesional de DevOps",
+          "badgeSrc": "https://static.platzi.com/media/achievements/badge-devops-d3e8b2ef-b2ef-4a16-8a4a-ac0e6953b054.png",
+          "badgeAlt": "Curso Profesional de DevOps",
+          "completed": false,
+          "favorite": false,
+          "progress": 0
+        },
+        {
+          "name": "Fundamentos de Docker",
+          "badgeSrc": "https://static.platzi.com/media/achievements/badges-fundamentos-docker-ef085173-492c-4076-b457-78af9155f8c0.png",
+          "badgeAlt": "Fundamentos de Docker",
+          "completed": false,
+          "favorite": true,
+          "progress": 10
+        },
+        {
+          "name": "Fundamentos de Swarm",
+          "badgeSrc": "https://static.platzi.com/media/achievements/badges-swarm-a321c69e-4c48-4197-a536-e31150287f3c.png",
+          "badgeAlt": "Fundamentos de Swarm",
+          "completed": false,
+          "favorite": false,
+          "progress": 0
+        },
+        {
+          "name": "Curso Básico de Jenkins",
+          "badgeSrc": "https://static.platzi.com/media/achievements/badges-jenkins-0073a655-4709-4628-bcad-b4ac569176d4.png",
+          "badgeAlt": "Curso Básico de Jenkins",
+          "completed": false,
+          "favorite": false,
+          "progress": 0
+        },
+        {
+          "name": "Fundamentos de IBM Cloud",
+          "badgeSrc": "https://static.platzi.com/media/achievements/1219-963070ef-0244-4846-aaf5-59b57233aecd.png",
+          "badgeAlt": "Fundamentos de IBM Cloud",
+          "completed": false,
+          "favorite": true,
+          "progress": 0
+        }
+      ]
+    }
+  ]
+}
